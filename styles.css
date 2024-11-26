@@ -1,6 +1,11 @@
 body {
     text-align: center;
     background-color: black;
+    .image-row {
+  display: flex;
+  justify-content: space-between; /* this will add equal space between each image */
+}
+
 }
 
 h1 {
